@@ -1,0 +1,1 @@
+You can preprocess to shrunk your image size if they are too big. You probably won't need that high definition anyway.

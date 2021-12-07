@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run app.py --theme.primaryColor="#f9dcc7" --theme.backgroundColor="#1a1a1d" --theme.secondaryBackgroundColor="#626262" --theme.textColor="#d9b08c"
